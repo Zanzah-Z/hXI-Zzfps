@@ -6,6 +6,7 @@ A lightweight customizable in-game average-FPS overlay for HorizonXI Private Ser
 [Linktr.ee Socials](https://linktr.ee/zanzah)<br>
 Your support is appreciated!<br>
 [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=ZJBZDWWWREULU)<br>
+[Donate via Ko-fi](https://ko-fi.com/zanzah_z)<br>
 ====================<br>
 
 Author: Zanzah<br>
